@@ -1,0 +1,449 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    scroll-behavior: smooth;
+}
+
+.main
+{
+    height: 200px;
+    width: 100%;
+    /* border: 2px solid green; */
+    background-color: black;
+    color: white;
+    /* position: sticky;
+    top: 0; */
+}
+
+.main i a
+{
+    color: white;
+    margin-left: 65px;
+    text-decoration: none;
+}
+
+.main i
+{
+    margin-left: 20px;
+}
+
+.main h1
+{
+    margin-top: 60px;
+}
+
+.main1
+{
+    height: 500px;
+    width: 100%;
+    /* border: 2px solid green; */
+    margin-top: 5px;
+}
+
+.sub img
+{
+    height: 500px;
+    width: 100%;
+    position: absolute;
+
+}
+
+.sub h3
+{
+    position: relative;
+    z-index: 1;
+    padding-top: 220px;
+    color: white;
+    margin-left: 20px;
+}
+
+.sub button
+{
+    padding: 15PX;
+    border-radius: 10px;
+    color: black;
+    background-color: yellow;
+    border: 4px solid yellow;
+    position: relative;
+    margin-left: 150px;
+}
+
+.sub button:hover
+{
+    color: black;
+    background-color: grey;
+    transform: scale(0.9);
+}
+
+.iri
+{
+    height: 450px;
+    width: 100%;
+    /* border: 2px solid green; */
+    margin-top: 20px;
+    /* text-align: center; */
+   
+}
+
+.tapasvi
+{
+    height: 380px;
+    width:330px;
+    /* border: 2px solid red; */
+    float: left;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+.tapasvi img
+{
+    height: 120px;
+    width: 120px;
+}
+
+.sri
+{
+    height: 405px;
+    width: 100%;
+    margin-top: 20px;
+    /* border: 2px solid green; */
+}
+
+.srinivas
+{
+    height: 350px;
+    width: 350px;
+    float: left;
+    margin-left: 60px;
+    /* border: 2px solid blue; */
+    margin-top: 10px;
+}
+
+.srinivas img
+{
+    height: 350px;
+    width: 350px;
+    position: absolute;
+}
+
+.srinivas h3 
+{
+   position: relative;
+   z-index: 1;
+    color: black;
+   padding-top: 190px;
+}
+
+.srinivas h2 
+{
+   position: relative;
+   z-index: 1;
+    color: black;
+    padding-top: 60px;
+}
+
+.circles
+{
+    height: 300px;
+    width: 100%;
+    /* border: 2px solid red; */
+    margin-top: 20px;
+}
+
+.circ
+{
+    height: 200px;
+    width: 185px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 2100px;
+    /* border: 2px solid green; */
+}
+
+.circ img
+{
+    height: 200px;
+    width: 185px;
+    border-radius: 2100px;
+}
+
+.rectangle
+{
+    height: 400px;
+    width: 100%;
+    /* border: 2px solid red; */
+    margin-top: 10px;
+}
+
+.angle
+{
+    height: 300px;
+    width: 300px;
+    /* border: 2px solid green; */
+    float: left;
+   margin-left: 10px;
+   margin-top: 30px;
+}
+
+.angle img
+{
+    height: 220px;
+    width: 300px;
+}
+
+.angle h3
+{
+    margin-top: 20px;
+}
+
+.boxes
+{
+    height: 480px;
+    width: 100%;
+    /* border: 2px solid red; */
+    margin-top: 5px;
+
+}
+
+.box
+{
+    height: 400px;
+    width: 380px;
+    margin-left: 30px;
+    float: left;
+    /* border: 2px solid green; */
+    margin-top: 40px;
+}
+
+.box img
+{
+    height: 395px;
+    width: 375px;
+    position: absolute;
+}
+
+.box h4
+{
+    color: WHITE;
+    position: relative;
+    z-index: 1;
+   padding-top: 200px;
+}
+
+.box h1
+{
+    color: white;
+    position: relative;
+    z-index: 1;
+    padding-top: 90px;
+
+}
+
+.more
+{
+    height: 380px;
+    width: 100%;
+    /* border: 2px solid red; */
+    margin-top: 10px;
+
+}
+
+.mor
+{
+    height: 320px;
+    width: 300px;
+    /* border: 2px solid green; */
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.mor img
+{
+    height: 240px;
+    width: 295px;
+}
+
+.bigbox
+{
+    height: 515px;
+    width: 60%;
+    /* border: 2px solid red; */
+    float: left;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.bigbox img
+{
+    height: 510px;
+    width: 100%;
+}
+
+.smallbox
+{
+    height: 515px;
+    width: 35%;
+    /* border: 2px solid green; */
+    margin-left: 800px;
+    margin-top: 20px;
+}
+
+.fan
+{
+    height: 350px;
+    width: 100%;
+    /* border: 2px solid red; */
+    margin-top: 20px;
+}
+
+.fav
+{
+    height: 220px;
+    width: 270px;
+    /* border: 2px solid green; */
+    float: left;
+    margin-top: 5px;
+    margin-left: 40px;
+}
+
+.fav img
+{
+    height: 215px;
+    width: 265px;
+}
+
+.next
+{
+    height: 320px;
+    width: 100%;
+    /* border: 2px solid red; */
+    margin-top: 10px;
+}
+
+
+.nex
+{
+    height: 220px;
+    width: 270px;
+    /* border: 2px solid red; */
+    float: left;
+    margin-left: 40px;
+    margin-top: 10px;
+
+}
+
+.nex img
+{
+    height: 215px;
+    width: 265px;
+}
+
+.now
+{
+    height: 320px;
+    width: 100%;
+    /* border: 2px solid green; */
+    margin-top: 10px;
+}
+
+.no
+{
+    height: 220px;
+    width: 270px;
+    /* border: 2px solid green; */
+    float: left;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.no img
+{
+    height: 215px;
+    width: 265px;
+}
+
+.yes
+{
+    height: 320px;
+    width: 100%;
+    /* border: 2px solid green; */
+    margin-top: 10px;
+}
+
+.ya
+{
+    height: 220px;
+    width: 270px;
+    /* border: 2px solid green; */
+    float: left;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.ya img
+{
+    height: 215px;
+    width: 265px;
+}
+
+.end
+{
+    height: 180px;
+    width: 100%;
+    /* border: 2px solid green; */
+    margin-top: 10px;
+    text-align: center;
+}
+
+.era button
+{
+   padding: 10px;
+   width: 50%;
+   margin-top: 20px;
+   border-radius: 20px;
+}
+
+.er button
+{
+    padding: 6px;
+    width: 30%;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: yellow;
+    border: 2px solid grey;
+}
+
+.er button:hover{
+    transform: scale(0.9);
+    background-color: lightyellow;
+}
+
+.footer
+{
+    height: 140px;
+    width: 100%;
+    margin-top: 20px;
+    /* border: 2px solid red; */
+    background-color: black;
+
+}
+
+.foot
+{
+    height: 130px;
+    width: 45%;
+    margin-left: 10px;
+    float: left;
+    margin-top: 5px;
+    /* border: 2px solid green; */
+    text-align: center;
+    color: white;
+}
+
+
+
+
